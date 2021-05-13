@@ -7,7 +7,12 @@ const About = () => {
         <Layout>
             <SEO title="About"/>
             <h1>About</h1>
-            <p>My name is Destin and this page is about me </p>
+            <p>My name is Destin and this page is about me.</p>
+            
+           <p> Im 19 years old I attend Dallas College and graduated from berkner highschool.
+        
+
+            </p>
         </Layout>
 
     )
